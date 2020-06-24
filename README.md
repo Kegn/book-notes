@@ -12,3 +12,4 @@ I just wanted to put them online so I can reference them easily.
 
 **June 2020**
  - Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+ - Atomic Habits by James Clear
